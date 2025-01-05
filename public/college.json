@@ -2,8 +2,8 @@
   {
     "rank": "1",
     "sup" : "rd",
-    "collegeName": "IIT Madras - Indian Institute of Technology",
-    "location": "Chennai, Tamil Nadu",
+    "collegeName": "Gehu Haldwani Campus",
+    "location": "Uttarakhand, Haldwani",
     "fees": "2,09,550",
     "averagePackage": "21,48,000",
     "highestPackage": "1,98,00,000",
@@ -18,8 +18,8 @@
   {
     "rank": "2",
     "sup" : "st",
-    "collegeName": "IIT Delhi - Indian Institute of Technology",
-    "location": "New Delhi, Delhi NCR",
+    "collegeName": "Gehu Haldwani Campus",
+    "location": "Uttarakhand, Haldwani",
     "fees": "2,54,650",
     "averagePackage": "25,82,000",
     "highestPackage": "2,00,00,000",
@@ -34,8 +34,8 @@
   {
     "rank": "3",
     "sup" : "th",
-    "collegeName": "Parul University, Vadodara",
-    "location": "Vadodara, Gujarat",
+    "collegeName": "GEHU University, Deemed",
+    "location": "Dehradun, Uttarakhand",
     "fees": "1,49,000",
     "averagePackage": "4,00,000",
     "highestPackage": "30,00,000",
@@ -66,8 +66,8 @@
   {
     "rank": "5",
      "sup" : "th",
-    "collegeName": "IIT Kharagpur - Indian Institute of Technology",
-    "location": "Kharagpur, West Bengal",
+    "collegeName": "Surajmal University - Indian Institute of Technology",
+    "location": "Rudrpur, Uttarakhand",
     "fees": "2,10,000",
     "averagePackage": "22,00,000",
     "highestPackage": "1,95,00,000",
