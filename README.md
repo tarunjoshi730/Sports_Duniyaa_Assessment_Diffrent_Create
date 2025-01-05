@@ -1,4 +1,16 @@
 # Private Projects when Its emergency then pubic for everyone 
+If you go an a Login Page So You have to do only 2 Steps:
+First Follow me in on Github
+Second you have to go tthis Repo:
+```
+https://github.com/tarunjoshi730/Login_page_sports_dunia_Assessment
+```
+If you see an Hosting website so you have to Click this :
+```
+https://tarunjoshi730.github.io/Login_page_sports_dunia_Assessment/
+```
+You have to go Further steps in Second repo:
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
